@@ -12,6 +12,8 @@ Download the Android SDK
 Download and install the Android SDK from
 https://developer.android.com/studio/
 
+You need to run it once to complete the setup.
+
 Install OpenJDK or Oracle JDK
 -----------------------------
 
